@@ -21,3 +21,9 @@
   margin: 2rem 0;
   font-weight: bold;
 }
+
+.counter button{
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
